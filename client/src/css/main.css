@@ -1,0 +1,79 @@
+.dog{
+    position: relative;
+    text-align: center;
+
+}
+
+.dogpic{
+    height: 700px;
+    margin-left: 350px;
+    opacity: .5;
+}
+.when{
+    position: absolute;
+    top: 60%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    color:rgb(40, 40, 133);
+    font-family: Georgia, serif;
+    border-bottom: solid 2px black;
+    padding: 5px;
+}
+
+
+.couple{
+    position: relative;
+    text-align: center;
+
+}
+
+.couplepic{
+    height: 700px;
+    margin-right: 350px;
+    opacity: .5;
+}
+.be{
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    color:rgb(40, 40, 133);
+    font-family: Georgia, serif;
+    border-bottom: solid 2px black;
+    padding: 5px;
+}
+
+.mountain{
+    position: relative;
+    text-align: center;
+
+}
+
+.mountainpic{
+    height: 700px;
+    margin-left: 270px;
+    opacity: .5;
+}
+.chaos{
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    color:rgb(40, 40, 133);
+    font-family: Georgia, serif;
+    border-bottom: solid 2px black;
+    padding: 5px;
+}
+
+.maindiv{
+    margin-bottom: 70px;
+}
+
+.upload{
+    text-decoration: none;
+    color: black;
+    font-size: 13px
+}

@@ -1,0 +1,35 @@
+.cart{
+    margin-left: 900px;
+    margin-top: 50px;
+    width: 50px;
+}
+.ig{
+    width: 40px;
+}
+.logo{
+    margin-bottom: 50px;
+}
+
+.name{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    border-bottom: solid 1px black;
+    border-top: solid 1px black;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    /* margin-left: ; */
+}
+
+.line{
+    border-bottom: solid 2px black;
+}
+
+
